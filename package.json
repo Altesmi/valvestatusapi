@@ -1,0 +1,20 @@
+{
+  "name": "valvestatusapi",
+  "version": "0.0.1",
+  "description": "Simple API to check if a valve is in open or closed state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altesmi/valvestatusapi.git"
+  },
+  "keywords": [],
+  "author": "Olli-Pekka Tikkanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Altesmi/valvestatusapi/issues"
+  },
+  "homepage": "https://github.com/Altesmi/valvestatusapi#readme"
+}
