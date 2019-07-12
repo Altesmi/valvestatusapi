@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Altesmi/valvestatusapi/issues"
   },
-  "homepage": "https://github.com/Altesmi/valvestatusapi#readme"
+  "homepage": "https://github.com/Altesmi/valvestatusapi#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
